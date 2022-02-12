@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rayne-XYZ-Support
+- 👀 I’m interested in decentralization, philosophy & technology
+- 🌱 I’m currently learning solidity, html, css
+- 💞️ I’m looking to collaborate on decentralized systems & projects
+- 📫 How to reach me [@raynemang](https://twitter.com/raynemang)
