@@ -16,7 +16,6 @@
   - Decentralized Financial Protocols
 <br></br>
 
-- 💞️ I’m looking to collaborate on decentralized systems & projects
-<br></br>
+- 💞️ These days my hands are full. But, I'm always looking to collab on decentralized systems & projects
 
 - 📫 How to reach me: [@raynemang](https://twitter.com/raynemang)
