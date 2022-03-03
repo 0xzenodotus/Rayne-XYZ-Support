@@ -3,7 +3,11 @@
    - During my off hours and personal time, I manage a public think tank called [DecentrAgora](https://github.com/decentragora).
 <br></br>
 
-- 👀 I’m interested in decentralization, philosophy & technology
+- 👀 My interests consist of:
+  - Decentralization
+  - Philosophy
+  - Technology
+  - Nature
 <br></br>
 
 - 🌱 Currently, I'm learning about solidity, html, css and decentralized systems
