@@ -12,5 +12,5 @@
   - Smart contracts
   - Non fungible tokens
   - Decentralized Financial Protocols
-- 💞️ These days my hands are full. But, I'm always looking to collab on decentralized systems & projects
+- 💙 I'm looking to collab on decentralized systems & projects!
 - 📫 How to reach me: [@raynemang](https://twitter.com/raynemang)
