@@ -13,4 +13,4 @@
   - Non fungible tokens
   - Decentralized Financial Protocols
 - 💙 I'm looking to collab on decentralized systems & projects!
-- 📫 How to reach me: [@raynemang](https://twitter.com/raynemang)
+- 📫 How to reach me: [@raynemang](https://twitter.com/raynemang) or rayne@decentragora.xyz
