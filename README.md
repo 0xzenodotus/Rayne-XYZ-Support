@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rayne-XYZ-Support
-   - My main job is Head of technical support for [Universe XYZ](https://github.com/UniverseXYZ).
+- 👋 Hi, I’m Rayne aka Knowledgeable Idiot
+   - I help run a small family farm that focuses on sustainable agriculture 
    - During my off hours and personal time, I manage a public think tank called [DecentrAgora](https://github.com/decentragora).
 <br></br>
 
